@@ -1,7 +1,7 @@
 name: custom_circular_progress
 description: A new Flutter package project.
 version: 1.0.0
-homepage:
+repository: https://www.github.com/mryadavdilip/custom_circular_progress.git
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
