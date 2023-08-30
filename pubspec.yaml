@@ -1,5 +1,5 @@
 name: custom_circular_progress
-description: A new Flutter package project.
+description: A customizable Flutter package to create circular progress indicators with animation and coloring effects.
 version: 1.0.0
 repository: https://www.github.com/mryadavdilip/custom_circular_progress.git
 
