@@ -50,11 +50,11 @@ CustomCircularProgress(
 ```
 
 ## Contributing
-Contributions are welcome! If you find any issues or want to enhance the package, feel free to [create a pull request](http://www.github.com/mryadavdilip/custom_circular_progress).
+Contributions are welcome! If you find any issues or want to enhance the package, feel free to [create a pull request](https://www.github.com/mryadavdilip/custom_circular_progress).
 
 ## License
 This project is licensed under the MIT License.
 
 # Author
 Dilip Yadav,
-Connect with me on [Linkedin](http://www.linkedin.com/in/mryadavdilip).
+Connect with me on [Linkedin](https://www.linkedin.com/in/mryadavdilip).

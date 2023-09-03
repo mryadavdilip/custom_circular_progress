@@ -12,7 +12,7 @@ All notable changes to the custom_circular_progress project will be documented i
 - Enhanced the default animations for a smoother appearance.
 - Improved the default color transitions for a more visually pleasing effect.
 
-## [1.0.0] - 2023-08-30
+## [1.0.1] - 2023-09-03
 
 Initial release of the custom_circular_progress project.
 
@@ -28,5 +28,5 @@ Initial release of the custom_circular_progress project.
 - Improved the calculation of progress value distribution in the `IndicatorDetails` class.
 - Tweaked default animation settings for a smoother experience.
 
-[Unreleased]: https://github.com/mryadavdilip/custom_circular_progress/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/mryadavdilip/custom_circular_progress/releases/tag/v1.0.0
+[Unreleased]: https://github.com/mryadavdilip/custom_circular_progress/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/mryadavdilip/custom_circular_progress/releases/tag/v1.0.1
